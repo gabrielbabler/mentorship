@@ -1,0 +1,89 @@
+Mentorship
+
+https://www.jdoodle.com/online-java-compiler/
+https://www.onlinegdb.com/online_java_compiler
+https://www.programiz.com/java-programming/online-compiler/
+https://www.online-java.com/
+
+DAY 1
+
+- Variables
+    - Primitives
+        - int
+        - double
+        - float
+        - boolean
+    - Wrappers
+        - String
+        - Integer
+        - Boolean
+        - Double
+        - Float
+
+    - How to declare each; (syntax)
+    - How to concatenate;
+    - How to compare values;
+
+- Conditionals/Repetitions
+    - if/else if/else
+        - If younger than 18 years -> Can't drive.
+        - If between 18 and 70 years -> Can drive.
+        - If older than 70 -> Can't drive
+        - < 18 || > 70 --- < 18 / >= 18 && < 70 / >=70
+    - do/while
+        - print "loading" while i < 100
+    - switch/case
+        switch (age)
+        - case age < 18
+        - case age >= 18 && <=70
+        - case age > 70
+        - default
+
+Challenge:
+    - Create a calculator
+        - Type the first value:
+        - Type the second value:
+        - Which operation do you want to perform?\n [1] Sum\n [2] Subtraction\n [3] Division\n [4] Multiplication
+            - If the user don't enter a valid number (1,2,3,4) then print "This is an invalid operation, please try again"
+        - Show the final result
+            - print "The result of {valueOne} + {operation} + {valueTwo} is: {result}"
+
+TODO: 
+    - Create a GITHUB account
+    - Install VSCODE
+    - Schedule next meeting (monday or wednesday at 9pm)
+
+DAY 2
+
+- Collection (interface)
+    - List (interface)
+        - ArrayList
+        - Vector
+        - LinkedList
+    - Set (interface)
+        - SortedSet (interface)
+            - TreeSet
+        - LinkedHashSet
+        - HashSet
+    - Queue (interface)
+        - LinkedList
+        - PriorityQueue
+
+- Map (interface)
+    - SortedMap (interface)
+        - TreeMap
+    - HashMap
+    - LinkedHashMap
+    - Hashtable
+
+- Show examples of:
+    - List
+    - Set
+    - Map
+
+    - How to instantiate;
+    - How to add values;
+    - How to remove values;
+    - How to print values;
+
+- For / ForEach
